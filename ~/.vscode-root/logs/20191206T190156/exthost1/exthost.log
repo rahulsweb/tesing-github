@@ -1,0 +1,12 @@
+[2019-12-06 19:01:57.917] [exthost] [info] extension host started
+[2019-12-06 19:01:57.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2019-12-06 19:01:57.960] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2019-12-06 19:01:58.012] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-06 19:01:58.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-06 19:01:58.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-06 19:01:58.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-06 19:01:58.046] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-06 19:01:58.051] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-06 19:01:58.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-06 19:01:58.094] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-06 19:01:58.128] [exthost] [info] eager extensions activated
