@@ -55,7 +55,7 @@
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/home/neosoft/gitDemo/resources"
+                                    "label": "~/gitDemo/resources"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1035,10 +1035,6 @@
             "workbench.action.closeWindow": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
-            },
-            "workbench.action.quit": {
-                "label": "Ctrl+Q",
-                "userSettingsLabel": "ctrl+q"
             },
             "undo": {
                 "label": "Ctrl+Z",

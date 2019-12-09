@@ -1,2 +1,1 @@
-Vishwanath anand is world second player
-shubham also great in the world
+chess is a sports game

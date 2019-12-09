@@ -1,0 +1,68 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/neosoft/gitDemo
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_branch
+> git rev-parse --symbolic-full-name new_branch@{u}
+fatal: no upstream configured for branch 'new_branch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show :resources/demo.blade.php
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_branch
+> git rev-parse --symbolic-full-name new_branch@{u}
+fatal: no upstream configured for branch 'new_branch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show -s --format=%an <%ae> [%ai] 57d8c4fddb914afbd3ee4d4af40d737af8669bcc
+> git show -s --format=%H
+%ae
+%P
+%B 57d8c4fddb914afbd3ee4d4af40d737af8669bcc
+> git show -s --format=%an <%ae> [%ai] f63dbc367ef56db27756d62511eb7c302aecd283
+> git show -s --format=%H
+%ae
+%P
+%B f63dbc367ef56db27756d62511eb7c302aecd283
+> git show -s --format=%an <%ae> [%ai] e0d838cb93cb0916833267a70e539830acf9d94e
+> git show -s --format=%H
+%ae
+%P
+%B e0d838cb93cb0916833267a70e539830acf9d94e
+> git show -s --format=%an <%ae> [%ai] 1b573e074506f6d550e94e858cc31de072e732ed
+> git show -s --format=%H
+%ae
+%P
+%B 1b573e074506f6d550e94e858cc31de072e732ed
+> git show -s --format=%an <%ae> [%ai] af96db73581d865a873d519ae0783f59427d1b28
+> git show -s --format=%H
+%ae
+%P
+%B af96db73581d865a873d519ae0783f59427d1b28
+> git show -s --format=%an <%ae> [%ai] b7816759928b8877920cdac0947ef3a4c1bb5344
+> git show -s --format=%H
+%ae
+%P
+%B b7816759928b8877920cdac0947ef3a4c1bb5344
+> git show -s --format=%an <%ae> [%ai] ba48d29adef427ec6af288c2e5352872d6b13707
+> git show -s --format=%H
+%ae
+%P
+%B ba48d29adef427ec6af288c2e5352872d6b13707
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse new_branch
+> git rev-parse --symbolic-full-name new_branch@{u}
+fatal: no upstream configured for branch 'new_branch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
